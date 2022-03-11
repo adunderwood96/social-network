@@ -1,18 +1,26 @@
 {
-    "name": "social-network",
-    "version": "1.0.0",
-    "description": "Social Network app",
-    "main": "server.js",
-    "dependencies": {
-      "dayjs": "^1.9.7",
-      "express": "^4.17.1",
-      "mongoose": "^5.11.7",
-      "nodemon": "^2.0.6"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js",
-      "watch": "nodemon server.js"
-    }
+  "dependencies": {
+    "dayjs": "^1.10.8",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mod-18",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adunderwood96/social-network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adunderwood96/social-network/issues"
+  },
+  "homepage": "https://github.com/adunderwood96/social-network#readme"
 }
