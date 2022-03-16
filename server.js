@@ -7,10 +7,9 @@ const PORT = process.env.PORT || 3001;
 // Express middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-// app.use(express.static('public'));
 
 // Use the routes
-app.use(require('./routes'));
+app.use(require('./routes/api'));
 
 // Connect to the MONGODB_URI database or the local DB
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/social-network', {
