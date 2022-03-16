@@ -16,6 +16,7 @@
 The backend for a social network where a user can be created,updated, and deleted. Friends, thoughts, and reactions can also be added, updated, and deleted.
 
 ## Demo
+![users](https://github.com/adunderwood96/social-network/blob/d5e1fb56697dbec60fa71f8802b1bc165db3b7ec/assets/images/users.png);
 
 Part One:
 https://youtu.be/NF04uPf6N7A
