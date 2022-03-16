@@ -19,10 +19,12 @@ The backend for a social network where a user can be created,updated, and delete
 ![users](https://github.com/adunderwood96/social-network/blob/d5e1fb56697dbec60fa71f8802b1bc165db3b7ec/assets/images/users.png);
 
 Part One:
+
 https://youtu.be/NF04uPf6N7A
 https://drive.google.com/file/d/1ukRkW2Fi4GyTEVD0gmF7gj3o7-pcuYjq/view
 
 Part Two:
+
 https://youtu.be/ZXqytzpGfWk
 https://drive.google.com/file/d/1bi--4hNSqCX7gZS47TfpinnQ7xOq9GVm/view
 
