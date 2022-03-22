@@ -52,6 +52,6 @@ npm start, insomnia
 
 If there are any further questions please feel free to contact me:
 
-Github: https://github/adunderwood96
+Github: https://github/apark8496
 
-Email: adunderwood96@gmail.com
+Email: apark8496@gmail.com
